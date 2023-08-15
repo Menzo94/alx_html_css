@@ -1,3 +1,11 @@
+.works_on_smartphone {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  font-size: 2em; /* Adjust the size as needed */
+}
 body, main {
   display: flex;
 }
