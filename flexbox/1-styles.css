@@ -467,6 +467,36 @@ ul.row {
     transition-duration: 0.3s;
     transition-property: color, background-color;
   }
+
+  /* Section (all styles)
+   ============================= */
+
+/* ... (previous styles) ... */
+
+/* Add class names to the outermost section tags */
+.section-services {
+  padding: var(--section-padding);
+}
+
+.section-works {
+  padding: var(--section-padding);
+}
+
+.section-about-us {
+  padding: var(--section-padding);
+}
+
+.section-latest-news {
+  padding: var(--section-padding);
+}
+
+.section-testimonial {
+  padding: var(--section-padding);
+}
+
+.section-contact {
+  padding: var(--section-padding);
+}
   
   /* Card TESTIMONIAL
       ============================= */
