@@ -184,11 +184,11 @@ ul.row {
   margin: 0;
   padding: 0;
   list-style: none;
-  display: flex; /* Add this line */
+  display: flex; /* Added this line */
   flex-wrap: wrap; /* Ensure items wrap properly */
 }
 
-/* Remove the entire .row::after declaration */
+/* Entirely remove the .row::after declaration */
 
 [class*='col-'] {
   /* Remove float: left */
